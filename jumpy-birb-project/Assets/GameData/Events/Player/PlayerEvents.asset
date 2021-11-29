@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e1460c38be61df439891a5ae502dd05, type: 3}
+  m_Name: PlayerEvents
+  m_EditorClassIdentifier: 
+  _onJump: {fileID: 11400000, guid: 79a959f80d619374281426de1ed51d7c, type: 2}
+  _onScore: {fileID: 11400000, guid: ec5bae960a023dd40995a8c4524a864b, type: 2}
+  _onHitObstacle: {fileID: 11400000, guid: 61dc5604c56141240a06b0a3c03a24b8, type: 2}
+  _onHitGround: {fileID: 11400000, guid: b10692b10d509294c89a5d3bed47638a, type: 2}
+  _onDeath: {fileID: 11400000, guid: 40615e61ed107694f9f214aaf2f09b5f, type: 2}
+  _onSpawn: {fileID: 11400000, guid: b1782e8d07d7bc947a1b02c0c660e5da, type: 2}

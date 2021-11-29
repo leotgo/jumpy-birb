@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7424747b89c18b4490cbd913d37f344, type: 3}
+  m_Name: GameVisualStyle
+  m_EditorClassIdentifier: 
+  _playerSpriteAnimations:
+  - {fileID: 11400000, guid: d26d485f3b80fb644a63062765cadbbb, type: 2}
+  - {fileID: 11400000, guid: e730730269e78b445acbaa0663527877, type: 2}
+  - {fileID: 11400000, guid: 2e948c1165447b2409f88f2d4504fc04, type: 2}
+  _backgroundSprites:
+  - {fileID: 21300000, guid: e465d79396dbe76438f36074576c54e8, type: 3}
+  - {fileID: 21300000, guid: 47aa80bd9b640304e9a52e3a2c4abf15, type: 3}
+  _pipeSprites:
+  - {fileID: 21300000, guid: dde89780c3d88c540949fa22b16b12f8, type: 3}
+  - {fileID: 21300000, guid: 9ed0cc160eaed55479083ec7b714b3d5, type: 3}

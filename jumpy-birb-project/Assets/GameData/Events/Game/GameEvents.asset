@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24e7a52c6001e26418069f3e23861c21, type: 3}
+  m_Name: GameEvents
+  m_EditorClassIdentifier: 
+  _onTutorialStart: {fileID: 11400000, guid: e9c5c5600a86667479f9ab8f7ea61e7e, type: 2}
+  _onTutorialEnd: {fileID: 11400000, guid: 3b6314a78db0fa243bff630f4711ccd3, type: 2}
+  _onGameplayStart: {fileID: 11400000, guid: 476327754db8cf94ba61cee25c3f31ad, type: 2}
+  _onGameplayEnd: {fileID: 11400000, guid: 5ad3067801dce884e87449ea623b9906, type: 2}
+  _onPauseStart: {fileID: 11400000, guid: 5a9fde345a9c4904e821d6b1165937b2, type: 2}
+  _onPauseEnd: {fileID: 11400000, guid: 26d35576a6efcd248a89e51d650f9dd8, type: 2}
+  _onRestartMenu: {fileID: 11400000, guid: 34c38b59f9702774dbb24dd448628f0b, type: 2}

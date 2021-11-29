@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 537f12a99a332044e98c9215e1a96c1d, type: 3}
+  m_Name: UIEvents
+  m_EditorClassIdentifier: 
+  _onRequestStartGame: {fileID: 11400000, guid: 07874c880e2a5454f820d93e998b04e5, type: 2}
+  _onRequestExitGame: {fileID: 11400000, guid: 39efd585893503143a49eee4862717b1, type: 2}
+  _onRequestTogglePause: {fileID: 11400000, guid: 3d24b3598b4b11343ba08c43d5e5436e, type: 2}
+  _onRequestRestart: {fileID: 11400000, guid: d7d58201b5a9b0948bbe0e6b56015d9a, type: 2}
+  _onRequestMainMenu: {fileID: 11400000, guid: 8ecb4790cc958e94f9f7f570b9657430, type: 2}

@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: e898f795a6831cf41a2a7fe2a000ccb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4809848789275346676
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_0
+  - first:
+      213: 6380110910848376140
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_1
+  - first:
+      213: 6472961679625383726
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_2
+  - first:
+      213: -2141016550246149585
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_3
+  - first:
+      213: -7888693531116071314
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_4
+  - first:
+      213: -2656503226305612809
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_5
+  - first:
+      213: 4248334568885484128
+    second: SPR_Button_Menu
+  - first:
+      213: -761990647980889554
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_7
+  - first:
+      213: -3745054235242335672
+    second: SPR_Button_OK
+  - first:
+      213: -4224630805335588393
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_9
+  - first:
+      213: -7587339162844714286
+    second: SPR_Text_Get
+  - first:
+      213: -6761878178903843020
+    second: SPR_Text_Ready
+  - first:
+      213: 3515004085854484646
+    second: SPR_Text_Game
+  - first:
+      213: 2086113204867638921
+    second: SPR_Text_Over
+  - first:
+      213: 2030559818675501950
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_14
+  - first:
+      213: 661590480844596861
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_15
+  - first:
+      213: -3252560555081686233
+    second: SPR_Prompt_GrayBird
+  - first:
+      213: -670899506385400815
+    second: SPR_Text_FlappyBird
+  - first:
+      213: -8683784524769483273
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_18
+  - first:
+      213: 806707618465563041
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_19
+  - first:
+      213: -8322031892792033309
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_20
+  - first:
+      213: 4130277134134168611
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_21
+  - first:
+      213: 3246331101951187852
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_22
+  - first:
+      213: 1541647098208801554
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_23
+  - first:
+      213: 2267829879182247246
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_24
+  - first:
+      213: -1940978614606451385
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_25
+  - first:
+      213: 8183873428824154039
+    second: SPR_Prompt_ArrowUp
+  - first:
+      213: -4800368168582009396
+    second: SPR_Prompt_TapLeft
+  - first:
+      213: 2725678249564001643
+    second: SPR_Prompt_TapHand
+  - first:
+      213: 6353952231910124325
+    second: SPR_Prompt_TapRight
+  - first:
+      213: 3880650365157736809
+    second: SPR_Button_StartGame
+  - first:
+      213: 1759155942516925951
+    second: SPR_Button_Leaderboards
+  - first:
+      213: -491287601307924913
+    second: SPR_Button_share
+  - first:
+      213: -2757556559376086061
+    second: SPR_Button_Resume
+  - first:
+      213: -7476064253715994654
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_34
+  - first:
+      213: 2388693232089010316
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_35
+  - first:
+      213: 8084081668143064423
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_36
+  - first:
+      213: 8751731906666011577
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_37
+  - first:
+      213: 8294180124765384302
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_38
+  - first:
+      213: 9130204348715852699
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_39
+  - first:
+      213: 3346099550627906120
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_40
+  - first:
+      213: -1737777625468372541
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_41
+  - first:
+      213: 1256593265306526408
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_42
+  - first:
+      213: -8245437130338720876
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_43
+  - first:
+      213: -1678759010647280766
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_44
+  - first:
+      213: -6667329700453121043
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_45
+  - first:
+      213: 8170389168408654114
+    second: SPR_Prompt_HiScore
+  - first:
+      213: 4832545000321325629
+    second: SPR_Medal_Platinum
+  - first:
+      213: -3777503300874056156
+    second: SPR_Medal_Gold
+  - first:
+      213: -5027068215810086279
+    second: SPR_Button_Pause
+  - first:
+      213: -7134692490603626823
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_50
+  - first:
+      213: 7658506844781645013
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_51
+  - first:
+      213: -3003428427464961647
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_52
+  - first:
+      213: 1491121413460371638
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_53
+  - first:
+      213: 6299080185742318884
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_54
+  - first:
+      213: -1430678723816713586
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_55
+  - first:
+      213: 6470606085021396617
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_56
+  - first:
+      213: -1971892099160864069
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_57
+  - first:
+      213: 409958968668833047
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_58
+  - first:
+      213: -2587161426184956880
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_59
+  - first:
+      213: 1465789521523121164
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_60
+  - first:
+      213: -3825185057530797128
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_61
+  - first:
+      213: 8890414375887426729
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_62
+  - first:
+      213: 2872261587192507924
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_63
+  - first:
+      213: -9010178142700446373
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_64
+  - first:
+      213: -6926615455424939753
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_65
+  - first:
+      213: -7122538089172231223
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_66
+  - first:
+      213: -2397870993619318460
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_67
+  - first:
+      213: 2454510928822535937
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_68
+  - first:
+      213: 2110686209675588307
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_69
+  - first:
+      213: -4593708515051396011
+    second: SPR_Medal_Silver
+  - first:
+      213: 3336707991304127649
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_71
+  - first:
+      213: 2393472659017795687
+    second: SPR_Medal_Bronze
+  - first:
+      213: -6060685001368602642
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_73
+  - first:
+      213: 2553269685868417961
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_74
+  - first:
+      213: 564130664645985960
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_75
+  - first:
+      213: -5544635725008898091
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_76
+  - first:
+      213: -3366603208473742697
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_77
+  - first:
+      213: -8219100507638828603
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_78
+  - first:
+      213: 4937992602569376010
+    second: SPR_Prompt_NEW
+  - first:
+      213: 7820684343916661857
+    second: Mobile_-_Flappy_Bird_-_Version_12_Sprites_80
+  - first:
+      213: -8399723449020689276
+    second: SPR_Prompt_TapScreenEff
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPR_Button_Menu
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 472
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7e6128cd15fa30800000000000000
+      internalID: 4248334568885484128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Button_OK
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 456
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842fec3e305e60cc0800000000000000
+      internalID: -3745054235242335672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Text_Get
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 432
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da2b381b3b54b690800000000000000
+      internalID: -7587339162844714286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Text_Ready
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 428
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f98fb4f9bf822a0800000000000000
+      internalID: -6761878178903843020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Text_Game
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 432
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83761c79dc7c030800000000000000
+      internalID: 3515004085854484646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Text_Over
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 432
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986236938ec53fc10800000000000000
+      internalID: 2086113204867638921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_GrayBird
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 405
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a8ef68659cd2d0800000000000000
+      internalID: -3252560555081686233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Text_FlappyBird
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 397
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc9e9147c70b6f0800000000000000
+      internalID: -670899506385400815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_ArrowUp
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf52d30685f29170800000000000000
+      internalID: 8183873428824154039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_TapLeft
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 379
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda398859aa16db0800000000000000
+      internalID: -4800368168582009396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_TapHand
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 372
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65554d3ded83d520800000000000000
+      internalID: 2725678249564001643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_TapRight
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 379
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52badc6e3e5cd2850800000000000000
+      internalID: 6353952231910124325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Button_StartGame
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 365
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96187b052f6dad530800000000000000
+      internalID: 3880650365157736809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Button_Leaderboards
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 365
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52d326207c96810800000000000000
+      internalID: 1759155942516925951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Button_share
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 356
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46cc7197889e29f0800000000000000
+      internalID: -491287601307924913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Button_Resume
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 356
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db075e5be03bb9d0800000000000000
+      internalID: -2757556559376086061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_HiScore
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22172bbf8ad036170800000000000000
+      internalID: 8170389168408654114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Medal_Platinum
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 232
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a1e39e216a01340800000000000000
+      internalID: 4832545000321325629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Medal_Gold
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 208
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e498d03cc939bc0800000000000000
+      internalID: -3777503300874056156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Button_Pause
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aabfe97144c3ab0800000000000000
+      internalID: -5027068215810086279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Medal_Silver
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554acaea17edf30c0800000000000000
+      internalID: -4593708515051396011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Medal_Bronze
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7688d54c3b2573120800000000000000
+      internalID: 2393472659017795687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_NEW
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0187a30c16478440800000000000000
+      internalID: 4937992602569376010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Prompt_TapScreenEff
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 385
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845a99d6003e6b80800000000000000
+      internalID: -8399723449020689276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
