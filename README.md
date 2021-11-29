@@ -1,4 +1,4 @@
-# Jump Birb - Unity Flappy Bird Clone
+# Jumpy Birb - Unity Flappy Bird Clone
 
 ## Project Information
 
