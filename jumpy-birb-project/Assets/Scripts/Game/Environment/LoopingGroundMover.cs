@@ -30,7 +30,7 @@ namespace JumpBirdGame
             _movedDistance = 0;
             _roundRobinIndex = new RoundRobinIndex(0, _groundObjects.Length - 1);
             _groundWidth = Mathf.Abs(_groundObjects[0].position.x - _groundObjects[1].position.x);
-            Debug.Log("Ground width: " + _groundWidth);
+            // Debug.Log("Ground width: " + _groundWidth);
         }
 
         private void FixedUpdate()
