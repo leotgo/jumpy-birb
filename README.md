@@ -12,6 +12,13 @@ To properly debug this project in the Unity Editor, it is necessary to open the 
 
 ![Master Scene Hierarchy Setup](documents/figures/fig-additive_loading.png)
 
+## Screenshots
+
+<img src="documents/figures/fig-main-menu.png" width="288" height="512"></img>
+<img src="documents/figures/fig-gameplay-1.png" width="288" height="512"></img>
+<img src="documents/figures/fig-gameplay-2.png" width="288" height="512"></img>
+</br>
+
 ## Third-Party Assets Used
 
 | Package | Location | Source   |
