@@ -14,9 +14,9 @@ To properly debug this project in the Unity Editor, it is necessary to open the 
 
 ## Screenshots
 
-<img src="documents/figures/fig-main-menu.png" width="288" height="512"></img>
-<img src="documents/figures/fig-gameplay-1.png" width="288" height="512"></img>
-<img src="documents/figures/fig-gameplay-2.png" width="288" height="512"></img>
+<img src="documents/figures/fig-main-menu.png" width="144" height="256"></img>
+<img src="documents/figures/fig-gameplay-1.png" width="144" height="256"></img>
+<img src="documents/figures/fig-gameplay-2.png" width="144" height="256"></img>
 </br>
 
 ## Third-Party Assets Used
